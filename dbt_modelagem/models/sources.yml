@@ -1,0 +1,9 @@
+version: 2
+
+sources: 
+  - name: loja
+    schema: public
+    description: dados do csv
+    tables:
+      - name: produtos
+      - name: vendas
